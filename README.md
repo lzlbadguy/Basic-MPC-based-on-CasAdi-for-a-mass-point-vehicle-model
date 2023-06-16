@@ -19,6 +19,11 @@ The simulation loop runs for a specified simulation time `simtime`. It first set
 
 At the end of the simulation, it plots the velocity of the vehicle, y coordinate, acceleration, and angular velocity against time.
 
+## Vehicle Model
+![image](https://github.com/lzlbadguy/Basic-MPC-based-on-CasAdi-for-a-mass-point-vehicle-model/assets/54171457/8cb23690-d290-4ea5-8940-e830bd597bb5)
+![image](https://github.com/lzlbadguy/Basic-MPC-based-on-CasAdi-for-a-mass-point-vehicle-model/assets/54171457/3e4cd9a1-4692-4efa-a708-6e2877838718)
+
+
 ## Running the Code
 
 Ensure that you have both Matlab and CasADi installed on your machine. Copy the code to a new Matlab script file (.m file) and run it.
